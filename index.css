@@ -1,0 +1,36 @@
+img {
+	height: 500px;
+	max-width: 500px;
+	margin: auto;
+}
+
+.col {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+}
+
+.row {
+	display: flex;
+	flex-direction: row;
+	flex: 1;
+}
+
+.box {
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	
+
+
+}
+
+p {
+	margin: auto;
+	color: blue;
+
+}
+
+.bg {
+	background: linear-gradient(#ffffff, #000000);
+}
